@@ -41,13 +41,14 @@ body {
 }
 
 .main-card__hero-img {
-  background-image: url(./images/illustration-hero.svg);
-  background-repeat: no-repeat;
-  background-size: contain;
-  background-position: center;
   border-top-left-radius: 8px;
   border-top-right-radius: 8px;
-  height: 157px;
+}
+
+img,
+picture {
+  display: block;
+  max-width: 100%;
 }
 
 .main-card__content {

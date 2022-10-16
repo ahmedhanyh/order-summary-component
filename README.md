@@ -13,6 +13,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
+- [Acknowledgements](#acknowledgements)
 
 ## Overview
 
@@ -52,3 +53,7 @@ I think there's a better way to set the height of an image or a div with a backg
 
 - GitHub - [@ahmedhanyh](https://github.com/ahmedhanyh)
 - Frontend Mentor - [@ahmedhanyh](https://www.frontendmentor.io/profile/ahmedhanyh)
+
+## Acknowledgements
+
+[@JulioCinquina](https://www.frontendmentor.io/profile/JulioCinquina) has helped me make the image size responsive by using the correct html structure and css declarations/styles.
